@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**tms0077/tms0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 Meu nome é Tiago Moreira
 
 - 🔭 I’m currently working on  vendas
 - 🌱 I’m currently learning  Front End
