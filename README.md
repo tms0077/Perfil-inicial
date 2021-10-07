@@ -1,7 +1,7 @@
 ### Hi there 👋 Meu nome é Tiago Moreira
 
 - 🔭 I’m currently working on  vendas
-- 🌱 I’m currently learning  Front End
+- 🌱 I’m currently learning  Front  - Back End  - Back End
 -->
 
   <a href="https://github.com/TiagoMoreira">
